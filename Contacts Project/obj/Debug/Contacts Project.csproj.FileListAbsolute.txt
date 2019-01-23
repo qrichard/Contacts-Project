@@ -1,0 +1,14 @@
+C:\Users\CCA009\Documents\Q Coding Accademy\9-10-2018\Contacts Project\Contacts Project\bin\Debug\Contacts Project.exe.config
+C:\Users\CCA009\Documents\Q Coding Accademy\9-10-2018\Contacts Project\Contacts Project\bin\Debug\Contacts Project.exe
+C:\Users\CCA009\Documents\Q Coding Accademy\9-10-2018\Contacts Project\Contacts Project\bin\Debug\Contacts Project.pdb
+C:\Users\CCA009\Documents\Q Coding Accademy\9-10-2018\Contacts Project\Contacts Project\obj\Debug\Contacts Project.csprojResolveAssemblyReference.cache
+C:\Users\CCA009\Documents\Q Coding Accademy\9-10-2018\Contacts Project\Contacts Project\obj\Debug\Contacts Project.csproj.CoreCompileInputs.cache
+C:\Users\CCA009\Documents\Q Coding Accademy\9-10-2018\Contacts Project\Contacts Project\obj\Debug\Contacts Project.exe
+C:\Users\CCA009\Documents\Q Coding Accademy\9-10-2018\Contacts Project\Contacts Project\obj\Debug\Contacts Project.pdb
+C:\Users\CCA009\Desktop\portfolio\Projects\Contacts Project\Contacts Project\bin\Debug\Contacts Project.exe.config
+C:\Users\CCA009\Desktop\portfolio\Projects\Contacts Project\Contacts Project\bin\Debug\Contacts Project.exe
+C:\Users\CCA009\Desktop\portfolio\Projects\Contacts Project\Contacts Project\bin\Debug\Contacts Project.pdb
+C:\Users\CCA009\Desktop\portfolio\Projects\Contacts Project\Contacts Project\obj\Debug\Contacts Project.csprojResolveAssemblyReference.cache
+C:\Users\CCA009\Desktop\portfolio\Projects\Contacts Project\Contacts Project\obj\Debug\Contacts Project.csproj.CoreCompileInputs.cache
+C:\Users\CCA009\Desktop\portfolio\Projects\Contacts Project\Contacts Project\obj\Debug\Contacts Project.exe
+C:\Users\CCA009\Desktop\portfolio\Projects\Contacts Project\Contacts Project\obj\Debug\Contacts Project.pdb
